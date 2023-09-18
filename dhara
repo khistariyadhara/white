@@ -1,0 +1,10 @@
+Q-2)Product of 6
+#include <stdio.h>
+
+int main()
+{
+ int one = 10, two = 20, three=30, four=40, five=50, six=60;
+ printf("%d",one*two*three*four*five*six);
+ 
+    return 0;
+}
